@@ -8,7 +8,7 @@ function SendAlert() {
 }
 
 function LeFunni() {
-   for (let i = 0; i < 60000000; i++) {
+   for (let i = 0; i < 600000000000; i++) {
    console.log("Unknown Error:");
    console.log("Unknown Error:");
    console.log("Unknown Error:");
