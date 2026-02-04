@@ -1,5 +1,5 @@
 console.log("ok it kinda works");
 
-function alert() {
+function SendAlert() {
    alert("Congratulations!\nYou got the script running.");
 }
