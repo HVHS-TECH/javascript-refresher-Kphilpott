@@ -12,17 +12,17 @@ function LeFunni() {
    alert("Nuclear Bomb Fuse Activated")
    delay(10000);
    for (let i = 0; i < 600000000000; i++) {
-   console.log("Unknown Error:");
-   console.log("Unknown Error:");
-   console.log("Unknown Error:");
-   console.log("Unknown Error:");
-   console.log("Unknown Error:");
-   console.log("Unknown Error:");
-   console.log("Unknown Error:");
-   console.log("Unknown Error:");
-   console.log("Unknown Error:");
-   console.log("Unknown Error:");
-   console.log("Unknown Error:");
+   console.log("Unknown Error:", i);
+   console.log("Unknown Error:", i);
+   console.log("Unknown Error:", i);
+   console.log("Unknown Error:", i);
+   console.log("Unknown Error:", i);
+   console.log("Unknown Error:", i);
+   console.log("Unknown Error:", i);
+   console.log("Unknown Error:", i);
+   console.log("Unknown Error:", i);
+   console.log("Unknown Error:", i);
+   console.log("Unknown Error:", i);
 }
 }
 
